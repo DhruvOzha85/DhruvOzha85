@@ -91,7 +91,14 @@ I enjoy working close to fundamentals — from **C programming** to **clean HTML
 *My own clone website projects.*
 
 - **With:** HTML, CSS  
-- 🔗 [View WebPage](https://webcloneproject.netlify.app/)
+- 🔗 [View WebPage](https://dhruvozha-resume.vercel.app/)
+
+### 🃏 Portfolio
+*My Own Portfolio.*
+
+- **With:** React, Vite
+- 🔗 [View WebPage](https://dhruvozha-portfolio.vercel.app/)
+
 
 ---
 
