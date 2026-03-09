@@ -58,10 +58,10 @@ Hey 👋 I'm Dhruv Ozha
 
 # 🚀 Live Project
 
-🌐 Clone Website
+🌐 Clone Website  
 https://clonewebsite-one.vercel.app/
 
-🌐 Portfolio
+🌐 Portfolio  
 https://dhruvozha-portfolio.vercel.app/
 
 ---
