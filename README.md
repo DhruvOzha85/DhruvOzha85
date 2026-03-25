@@ -61,6 +61,12 @@ Hey 👋 I'm Dhruv Ozha
 🌐 Clone Website  
 https://clonewebsite-one.vercel.app/
 
+🌐 CropPilot   
+https://croppilot-su.vercel.app/
+
+🌐 AI Adaptive Onboarding Engine   
+https://iisc-hack.vercel.app/
+
 🌐 Portfolio  
 https://dhruvozha-portfolio.vercel.app/
 
