@@ -1,18 +1,19 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%20There!%20I'm%20Dhruv%20Ozha%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=60&descAlign=50" />
-
-<!-- Typing SVG — emojis URL-encoded to prevent query param breakage -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%9A%80;Full+Stack+Developer+%7C+Open+Source+Enthusiast;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%20There!%20I%27m%20Dhruv%20Ozha%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=60&descAlign=50" />
 
 <br/>
+
+<!-- Typing SVG — single line rotation avoids multiline overflow bug -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+the+Future%2C+One+Line+at+a+Time;Open+Source+Enthusiast+%F0%9F%8C%B1;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
+
+<br/><br/>
 
 <!-- Profile Views & Social Badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=DhruvOzha85&label=Profile%20Views&color=7c3aed&style=flat-square" alt="Profile Views" />
+  &nbsp;
   <a href="https://github.com/DhruvOzha85?tab=followers">
     <img src="https://img.shields.io/github/followers/DhruvOzha85?label=Followers&style=flat-square&color=7c3aed" alt="Followers" />
   </a>
@@ -23,7 +24,7 @@
 ---
 
 <!-- About Me -->
-## <img src="https://media2.giphy.com/media/iY8CRBdQXODJSCERIr/200w.gif" width="30px"> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30px" alt="Wave"> About Me
 
 ```javascript
 const dhruv = {
@@ -37,7 +38,8 @@ const dhruv = {
 };
 ```
 
-<img align="right" alt="Coding GIF" width="380" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<!-- GitHub-hosted coding GIF — no external CDN, always loads -->
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 - 🔭 I'm currently working on **AI-powered web applications**
 - 🌱 I'm deepening my skills in **Node.js, React & System Design**
@@ -50,7 +52,7 @@ const dhruv = {
 
 ---
 
-## <img src="https://media2.giphy.com/media/WUlplcMpOCEmTGBtBW/200w.gif" width="30"> Tech Stack
+## 🛠️ Tech Stack
 
 ### 🎨 Frontend
 <p>
@@ -97,7 +99,7 @@ const dhruv = {
       <h3 align="center">🌐 Clone Website</h3>
       <div align="center">
         <a href="https://clonewebsite-one.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/%F0%9F%94%B4_Live_Demo-clonewebsite--one.vercel.app-7c3aed?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/Live%20Demo-%E2%96%B6-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
         <p>A pixel-perfect website clone built with modern frontend technologies. Demonstrates strong UI/UX skills and attention to detail in replicating real-world interfaces.</p>
         <p>
@@ -111,7 +113,7 @@ const dhruv = {
       <h3 align="center">🌾 CropPilot</h3>
       <div align="center">
         <a href="https://croppilot-su.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/%F0%9F%94%B4_Live_Demo-croppilot--su.vercel.app-16a34a?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/Live%20Demo-%E2%96%B6-16a34a?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
         <p>An intelligent crop management platform helping farmers make data-driven decisions. Features smart recommendations and real-time agricultural insights powered by AI.</p>
         <p>
@@ -127,13 +129,13 @@ const dhruv = {
       <h3 align="center">🤖 AI Adaptive Onboarding Engine</h3>
       <div align="center">
         <a href="https://iisc-hack.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/%F0%9F%94%B4_Live_Demo-iisc--hack.vercel.app-f97316?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/Live%20Demo-%E2%96%B6-f97316?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
         <p>Built at IISc Hackathon — an AI-powered onboarding system that adapts to each user's profile, role, and behavior. Personalizes the learning journey dynamically using AI models.</p>
         <p>
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
           <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white" />
-          <img src="https://img.shields.io/badge/AI_Powered-FF6B6B?style=flat-square" />
+          <img src="https://img.shields.io/badge/AI%20Powered-FF6B6B?style=flat-square" />
         </p>
       </div>
     </td>
@@ -141,12 +143,12 @@ const dhruv = {
       <h3 align="center">🧑‍💼 Portfolio Website</h3>
       <div align="center">
         <a href="https://dhruvozha-portfolio.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/%F0%9F%94%B4_Live_Demo-dhruvozha--portfolio.vercel.app-06b6d4?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/Live%20Demo-%E2%96%B6-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
         <p>My personal portfolio showcasing all my projects, skills, and experience. Clean design with smooth animations to present my journey as a developer in an engaging way.</p>
         <p>
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-          <img src="https://img.shields.io/badge/CSS_Animations-1572B6?style=flat-square&logo=css3&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS%20Animations-1572B6?style=flat-square&logo=css3&logoColor=white" />
           <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel" />
         </p>
       </div>
@@ -162,12 +164,12 @@ const dhruv = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DhruvOzha85&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=DhruvOzha85&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhruvOzha85&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://streak-stats.demolab.com/?user=DhruvOzha85&theme=tokyonight&hide_border=true" />
 
-<br/>
+<br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvOzha85&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvOzha85&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -206,21 +208,27 @@ const dhruv = {
 <a href="https://www.linkedin.com/in/dhruv-ozha-bb378639b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://x.com/dhruvozha85" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://www.instagram.com/dhruv.ozha/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://www.youtube.com/@DhruvOzha" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://leetcode.com/u/DhruvOzha/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
+&nbsp;
 <a href="mailto:ozhadhruv@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://dhruvozha-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
