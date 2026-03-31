@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%20There!%20I'm%20Dhruv%20Ozha%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=60&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%20There!%20I'm%20Dhruv%20Ozha%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=60&descAlign=50" />
 
-<!-- Typing SVG -->
+<!-- Typing SVG — emojis URL-encoded to prevent query param breakage -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=🚀+Building+the+Future%2C+One+Line+at+a+Time;💡+Full+Stack+Developer+%7C+Open+Source+Enthusiast;🌱+Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%9A%80;Full+Stack+Developer+%7C+Open+Source+Enthusiast;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,7 +23,7 @@
 ---
 
 <!-- About Me -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
+## <img src="https://media2.giphy.com/media/iY8CRBdQXODJSCERIr/200w.gif" width="30px"> About Me
 
 ```javascript
 const dhruv = {
@@ -37,7 +37,7 @@ const dhruv = {
 };
 ```
 
-<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding GIF" width="380" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🔭 I'm currently working on **AI-powered web applications**
 - 🌱 I'm deepening my skills in **Node.js, React & System Design**
@@ -50,7 +50,7 @@ const dhruv = {
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack
+## <img src="https://media2.giphy.com/media/WUlplcMpOCEmTGBtBW/200w.gif" width="30"> Tech Stack
 
 ### 🎨 Frontend
 <p>
@@ -91,14 +91,13 @@ const dhruv = {
 
 <div align="center">
 
-<!-- Project Cards Row 1 -->
 <table>
   <tr>
     <td width="50%">
       <h3 align="center">🌐 Clone Website</h3>
       <div align="center">
         <a href="https://clonewebsite-one.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/🔴_Live_Demo-clonewebsite--one.vercel.app-7c3aed?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/%F0%9F%94%B4_Live_Demo-clonewebsite--one.vercel.app-7c3aed?style=for-the-badge" />
         </a>
         <p>A pixel-perfect website clone built with modern frontend technologies. Demonstrates strong UI/UX skills and attention to detail in replicating real-world interfaces.</p>
         <p>
@@ -112,7 +111,7 @@ const dhruv = {
       <h3 align="center">🌾 CropPilot</h3>
       <div align="center">
         <a href="https://croppilot-su.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/🔴_Live_Demo-croppilot--su.vercel.app-16a34a?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/%F0%9F%94%B4_Live_Demo-croppilot--su.vercel.app-16a34a?style=for-the-badge" />
         </a>
         <p>An intelligent crop management platform helping farmers make data-driven decisions. Features smart recommendations and real-time agricultural insights powered by AI.</p>
         <p>
@@ -128,7 +127,7 @@ const dhruv = {
       <h3 align="center">🤖 AI Adaptive Onboarding Engine</h3>
       <div align="center">
         <a href="https://iisc-hack.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/🔴_Live_Demo-iisc--hack.vercel.app-f97316?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/%F0%9F%94%B4_Live_Demo-iisc--hack.vercel.app-f97316?style=for-the-badge" />
         </a>
         <p>Built at IISc Hackathon — an AI-powered onboarding system that adapts to each user's profile, role, and behavior. Personalizes the learning journey dynamically using AI models.</p>
         <p>
@@ -142,7 +141,7 @@ const dhruv = {
       <h3 align="center">🧑‍💼 Portfolio Website</h3>
       <div align="center">
         <a href="https://dhruvozha-portfolio.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/🔴_Live_Demo-dhruvozha--portfolio.vercel.app-06b6d4?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/%F0%9F%94%B4_Live_Demo-dhruvozha--portfolio.vercel.app-06b6d4?style=for-the-badge" />
         </a>
         <p>My personal portfolio showcasing all my projects, skills, and experience. Clean design with smooth animations to present my journey as a developer in an engaging way.</p>
         <p>
@@ -164,7 +163,7 @@ const dhruv = {
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DhruvOzha85&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvOzha85&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=DhruvOzha85&theme=tokyonight&hide_border=true" />
 
 <br/>
 
