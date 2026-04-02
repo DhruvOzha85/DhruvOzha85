@@ -98,8 +98,13 @@ Hi, I'm **Dhruv Ozha**, a Full Stack Developer based in **India 🇮🇳**. I'm 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhruvOzha85&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvOzha85&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhruvOzha85&theme=tokyonight" />
+
+<br/>
+
+<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DhruvOzha85&theme=tokyonight" />
+<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DhruvOzha85&theme=tokyonight" />
+<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DhruvOzha85&theme=tokyonight" />
 
 </div>
 
