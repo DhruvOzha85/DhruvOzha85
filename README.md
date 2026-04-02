@@ -5,7 +5,7 @@
 
 <br/>
 
-<!-- Typing SVG — single line rotation avoids multiline overflow bug -->
+<!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+the+Future%2C+One+Line+at+a+Time;Open+Source+Enthusiast+%F0%9F%8C%B1;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
 
 <br/><br/>
@@ -23,32 +23,37 @@
 
 ---
 
-<!-- About Me -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30px" alt="Wave"> About Me
 
-```javascript
-const dhruv = {
-  name      : "Dhruv Ozha",
-  location  : "India 🇮🇳",
-  role      : "Full Stack Developer",
-  email     : "ozhadhruv@gmail.com",
-  passion   : ["Building web apps", "Solving DSA problems", "Creating AI tools"],
-  currentFocus : "Building scalable full-stack projects & exploring AI/ML integrations",
-  funFact   : "I debug with console.log and I'm proud of it 😄",
-};
-```
-
-<!-- GitHub-hosted coding GIF — no external CDN, always loads -->
 <img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-- 🔭 I'm currently working on **AI-powered web applications**
-- 🌱 I'm deepening my skills in **Node.js, React & System Design**
-- 👯 I'm looking to collaborate on **open-source & innovative projects**
+Hi, I'm **Dhruv Ozha**, a Full Stack Developer based in **India 🇮🇳**. I'm passionate about building scalable web apps, solving DSA problems, and creating AI-powered tools. Currently, I'm deepening my skills in **Node.js, React & System Design** while exploring AI/ML integrations.
+
+- 🔭 Currently working on **AI-powered web applications**
+- 🌱 Deepening my skills in **Node.js, React & System Design**
+- 👯 Looking to collaborate on **open-source & innovative projects**
 - 💬 Ask me about **React, Node.js, MongoDB, Express**
-- 📫 Reach me at **ozhadhruv@gmail.com**
-- ⚡ Fun fact: I love competitive programming on **LeetCode**
+- ⚡ Fun fact: I love competitive programming on **LeetCode** — and yes, I debug with `console.log` and I'm proud of it 😄
 
 <br clear="right"/>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:ozhadhruv@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/dhruv.ozha/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://dhruvozha-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
@@ -94,20 +99,8 @@ const dhruv = {
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhruvOzha85&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://streak-stats.demolab.com/?user=DhruvOzha85&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvOzha85&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DhruvOzha85&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </div>
 
 ---
@@ -126,42 +119,6 @@ const dhruv = {
   <a href="https://leetcode.com/u/DhruvOzha/">
     <img src="https://leetcard.jacoblin.cool/DhruvOzha?theme=dark&font=Nunito&ext=contest&border=0&radius=20" alt="LeetCode Stats" />
   </a>
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/dhruv-ozha-bb378639b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://x.com/dhruvozha85" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.instagram.com/dhruv.ozha/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.youtube.com/@DhruvOzha" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/DhruvOzha/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-&nbsp;
-<a href="mailto:ozhadhruv@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://dhruvozha-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
 </div>
 
 ---
