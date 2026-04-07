@@ -51,7 +51,7 @@ Hi, I'm **Dhruv Ozha**, a Full Stack Developer based in **India 🇮🇳**. I'm 
   <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/DhruvOzha.pdf" target="_blank">
+<a href="https://github.com/DhruvOzha85/Dhruvozha85/raw/main/DhruvOzha.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </a>
 </div>
