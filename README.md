@@ -38,9 +38,7 @@ Hi, I'm **Dhruv Ozha**, a Full Stack Developer based in **India 🇮🇳**. I'm 
 <br clear="right"/>
 
 ## 🌐 Connect With Me
-
 <div align="center">
-
 <a href="mailto:ozhadhruv@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -52,7 +50,10 @@ Hi, I'm **Dhruv Ozha**, a Full Stack Developer based in **India 🇮🇳**. I'm 
 <a href="https://dhruvozha-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-
+&nbsp;
+<a href="https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/DhruvOzha.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+</a>
 </div>
 
 ---
